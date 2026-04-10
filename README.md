@@ -1,7 +1,7 @@
-# School Projects
+# Projects
 
-This repository contains my school projects completed as part of coursework and assignments.  
-Each project demonstrates different concepts, tools, and programming skills learned during my studies.
+This repository contains my projects completed as part of coursework, assignments and hobby.  
+Each project demonstrates different concepts, tools, and programming skills learned during my studies and spare time.
 
 ## Contents
 - Individual folders for each project
